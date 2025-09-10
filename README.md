@@ -81,12 +81,17 @@ graph LR
 </td>
 <td valign="top" width="50%">
 
-### 🎯 Goals for 2024
-- [ ] Master Node.js ecosystem
-- [ ] Build 5 full-stack projects
-- [ ] Contribute to 10 open source projects
-- [ ] Learn cloud deployment (AWS/Heroku)
-- [ ] Start a tech blog
+### 🎯 Goals for 2025
+- [ ] Master **Web3.0** fundamentals & blockchain tech
+- [ ] Build **decentralized applications (dApps)** for collaboration
+- [ ] Learn **Smart Contract** development with Solidity
+- [ ] Create **AI-powered** collaborative platforms
+- [ ] Explore **Edge Computing** & serverless architectures
+- [ ] Contribute to **open-source Web3** projects with global teams
+- [ ] Master **GraphQL** & modern API patterns for team projects
+- [ ] Deploy collaborative tools on **Web3** infrastructure (IPFS, ENS)
+- [ ] Build **real-time collaboration** apps with Next.js 14
+- [ ] Launch a **collaborative SaaS** platform for developers
 
 </td>
 </tr>
