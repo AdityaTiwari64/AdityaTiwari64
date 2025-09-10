@@ -103,11 +103,13 @@ graph LR
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-profile)
 
 ### 🚀 Looking to Collaborate On
-- 🌐 **Web Applications** using Node.js
-- 🔧 **Backend Services** and APIs
-- 📱 **Full-Stack Projects** 
-- 🎯 **Learning Projects** for skill development
-- 🌟 **Open Source** contributions
+- 🌐 **Web3.0 Applications** & blockchain projects
+- 🤖 **AI-powered** web applications  
+- 🔧 **Backend Services** and modern APIs
+- 📱 **Full-Stack Projects** with cutting-edge tech
+- 🎯 **DeFi** & **NFT** marketplace development
+- 🌟 **Open Source** Web3 contributions
+- ⚡ **Real-time** applications with WebSockets
 
 </div>
 
