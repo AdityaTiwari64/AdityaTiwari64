@@ -1,46 +1,26 @@
-# Aditya Tiwari
+[![Aditya Tiwari](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Aditya+Tiwari;Full+Stack+Developer+%7C+Node.js+Enthusiast;Always+Learning%2C+Always+Shipping)](https://github.com/AdityaTiwari64?tab=repositories)
 
-`@AdityaTiwari64` · India 🇮🇳
-
-Backend-focused developer building things with Node.js. Interested in clean architecture, open source, and shipping projects that work.
-
----
-
-### Stack
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white)
+<p align="center">
+  <a href="mailto:adiaarushtiwari@gmail.com">Email</a> •
+  <a href="https://github.com/AdityaTiwari64">GitHub</a> •
+  <a href="https://linkedin.com/in/your-linkedin-profile">LinkedIn</a>
+</p>
 
 ---
 
-### Currently learning
+I'm a backend-focused developer from India 🇮🇳, currently going deep on **Node.js** and building robust server-side applications. I previously tinkered with HTML/CSS and Python, but now my focus is clean APIs, database design, and shipping things that actually work.
 
-- **Authentication** — JWT & OAuth flows
-- **Database design** — MongoDB & SQL
-- **API patterns** — REST & GraphQL
-- **Containerization** — Docker basics
+I care about writing code that others can read, understanding systems from first principles, and contributing to open source when I can. If you're a fellow learner or builder — let's connect.
 
----
+![](https://github.com/AdityaTiwari64/AdityaTiwari64/blob/master/generated/overview.svg)
+![](https://github.com/AdityaTiwari64/AdityaTiwari64/blob/master/generated/languages.svg)
 
-### GitHub stats
+<!--START_SECTION:endorsements-->
+### Skills & Endorsements
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=AdityaTiwari64&show_icons=true&theme=default&hide_border=true&title_color=000000&icon_color=555555&text_color=555555&bg_color=ffffff&hide_rank=false" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaTiwari64&layout=compact&langs_count=6&theme=default&hide_border=true&title_color=000000&text_color=555555&bg_color=ffffff" />
+I would like to add you to my professional network on the GITHUB.
 
----
-
-### Reach me
-
-[![Email](https://img.shields.io/badge/email-adiaarushtiwari%40gmail.com-555555?style=flat-square&logo=gmail&logoColor=white)](mailto:adiaarushtiwari@gmail.com)
-[![GitHub](https://img.shields.io/badge/github-AdityaTiwari64-555555?style=flat-square&logo=github&logoColor=white)](https://github.com/AdityaTiwari64)
-[![LinkedIn](https://img.shields.io/badge/linkedin-connect-555555?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-profile)
-
----
-
-*"every expert was once a beginner."*
+<ul>
+  <li><a href="https://github.com/AdityaTiwari64/AdityaTiwari64/issues/new?assignees=&labels=endorsement&template=endorsement-template.md&title=Endorse%3A+SKILL_HERE">Endorse a skill!</a></li>
+</ul>
+<!--END_SECTION:endorsements-->
