@@ -1,0 +1,9 @@
+# CI dependencies (used by the daily GitHub Actions workflow)
+requests==2.32.3
+beautifulsoup4==4.12.3
+
+# Portrait-only (run locally when you change your photo — not needed by CI)
+# pillow
+# numpy
+# opencv-python
+# rembg

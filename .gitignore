@@ -1,0 +1,16 @@
+# virtual environment
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# portrait source files (large, local-only)
+source-photo.*
+source-prepped.png
+
+# OS
+.DS_Store
+Thumbs.db
