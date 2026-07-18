@@ -17,7 +17,7 @@ HERE   = os.path.dirname(os.path.abspath(__file__))
 OUT    = os.path.join(HERE, "..", "info-card.svg")
 STATIC = bool(os.environ.get("STATIC"))
 
-W, H       = 480, 376
+W, H       = 480, 400
 PAD        = 20
 TITLEBAR_H = 30
 KEY_X      = PAD
@@ -44,6 +44,7 @@ ACCENT  = "#22d3ee"
 ROWS = [
     ("host",),
     ("kv", "Now",      "Student + Open Source Developer"),
+    ("kv", "Prev",     "Intern @ Tech Mahindra"),
     ("kv", "Location", "India"),
     ("kv", "Edu",      "Computer Science"),
     ("gap",),
