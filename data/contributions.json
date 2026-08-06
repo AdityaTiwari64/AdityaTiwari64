@@ -1,7 +1,7 @@
 {
   "username": "AdityaTiwari64",
-  "fetched_at": "2026-08-05T08:51:39.638660Z",
-  "total": 257,
+  "fetched_at": "2026-08-06T09:04:47.081543Z",
+  "total": 258,
   "days": [
     {
       "date": "2025-08-03",
@@ -1473,11 +1473,15 @@
     },
     {
       "date": "2026-08-05",
+      "count": 1
+    },
+    {
+      "date": "2026-08-06",
       "count": 0
     }
   ],
-  "current_streak": 18,
-  "longest_streak": 18,
+  "current_streak": 19,
+  "longest_streak": 19,
   "best_day": {
     "date": "2025-09-15",
     "count": 24
@@ -1495,6 +1499,6 @@
     "2026-05": 40,
     "2026-06": 16,
     "2026-07": 42,
-    "2026-08": 4
+    "2026-08": 5
   }
 }
